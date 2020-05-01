@@ -14,7 +14,7 @@ Upcoming features:
 
 Project members:
 1) Keshav R Raju(GitHub: https://github.com/keshavrajur)
-2) Vishnu S Reddy(GitHub: https://github.com/Vishnu-S-Reddy)
+2) Vishnu S Reddy(GitHub: https://github.com/vishnureddys)
 
 LinkedIn profiles of project members:
 1) Keshav R Raju: https://linkedin.com/in/keshav-raju
